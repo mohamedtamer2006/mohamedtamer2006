@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤖 AI & Machine Learning Enthusiast | 💻 Software Engineer in Progress<br><br>I'm a Computer Science student at Cairo University passionate about Artificial Intelligence, Machine Learning, and Software Engineering. I enjoy turning data into intelligent solutions that solve real-world problems.<br><br>🚀 Currently learning and building projects in AI/ML<br>🐍 Working with Python<br>🧠 Exploring data science, machine learning models, and intelligent systems<br>🎯 My goal is to build AI solutions that make a real impact.<br><br>**"Turning data into intelligence, and ideas into innovation."**<br>
+AI & Machine Learning Enthusiast | Software Engineer in Progress<br><br>I'm a Computer Science student at Cairo University passionate about Artificial Intelligence, Machine Learning, and Software Engineering. I enjoy turning data into intelligent solutions that solve real-world problems.<br><br> Currently learning and building projects in AI/ML<br> Working with Python<br> Exploring data science, machine learning models, and intelligent systems<br> My goal is to build AI solutions that make a real impact.<br><br>**"Turning data into intelligence, and ideas into innovation."**<br>
 
 
 # 💻 Tech Stack:
